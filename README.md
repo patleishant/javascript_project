@@ -1,2 +1,2 @@
-# javascript_project
+# Javascript_project
 Currency Converter
